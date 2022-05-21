@@ -2,7 +2,7 @@
 
 ### Who am I ?
 
-I'm passionate about Analytics Engineering and how we can apply software engineering best practices to Big Data.
+I'm a junior analytics engineer who is passionate about Analytics Engineering and how we can apply software engineering best practices to Big Data.
 
 Here are some ideas to get you started:
 
@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 
 - 👯 I'm looking to collaborate on data engineering & analytics engineering projects
 
-- 🤔 I'm looking for help with ...
-
-- 📫 How to reach me: ...
+- 📫 How to reach me: via email pevolution.ahmed@gmail.com
 
 **Languages**:
 
