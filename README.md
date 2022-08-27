@@ -58,7 +58,6 @@ Also, usually I use already built packages like (dbt_utils, dbt_expectations,...
 **Coding Snippets**:
   
 ```
-
 {% macro  extract_double_platform_properties(
    event_name,
    start_date=dbt_date.n_days_ago(90),
