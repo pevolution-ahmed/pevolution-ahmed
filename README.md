@@ -2,7 +2,7 @@
 
 ### Who am I ?
 
-I'm a junior analytics engineer who is passionate about Analytics Engineering and how we can apply software engineering best practices to Big Data.
+I'm a junior data / analytics engineer who is passionate about Engineering and how we can apply software engineering best practices to Big Data.
 
 Here are some ideas to get you started:
 
