@@ -2,11 +2,11 @@
 
 ### Who am I ?
 
-I'm a data / analytics engineer who is passionate about Engineering and how we can apply software engineering best practices to Big Data.
+I'm a Data / Analytics engineer who is passionate about Engineering and how we can apply software engineering best practices to Big Data.
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently working on developing data solutions using python and sql
+- 🔭 I'm currently working on developing data solutions, data pipelines and data tooling using python and sql
 
 - 🌱 I'm currently learning Big Data Engineering Technologies ( Airflow, Spark, Kafka, Kubernetes,...etc)
 
