@@ -2,7 +2,7 @@
 
 ### Who am I ?
 
-I'm a junior data / analytics engineer who is passionate about Engineering and how we can apply software engineering best practices to Big Data.
+I'm a data / analytics engineer who is passionate about Engineering and how we can apply software engineering best practices to Big Data.
 
 Here are some ideas to get you started:
 
@@ -24,11 +24,13 @@ Here are some ideas to get you started:
 
 - SQL
 
+- Bash Scripting
+
 **Data related tools**:
 
 - DBT (data build tool)
 
-- BigQuery
+- BigQuery datawarehouse (Column-based Database)
 
 - Github actions as CI/CD tool
 
@@ -36,13 +38,21 @@ Here are some ideas to get you started:
 
 - Jupyter notebook
 
+- Apache Airflow as a workflow orchestration tool
+
+- Microsoft Power Bi
+
+- Greate Expectation as a data validation tool
+
+- MySQL , Mongodb (Relational and Documnet based databases)
+
 **Technical knowledge I have**:
 
 - Statistics and Propability
 
 - Software engineering
 
-- Data Warehouse Modeling
+- Data Warehouse Modeling (Dimintional - ERD)
 
 - Data Analysis
 
@@ -58,7 +68,7 @@ Also, usually I use already built packages like (dbt_utils, dbt_expectations,...
 **Coding Snippets**:
   
 ```
-{% macro  extract_double_platform_properties(
+{% macro  extract_most_common_properties_from_mobile(
    event_name,
    start_date=dbt_date.n_days_ago(90),
    end_date=dbt_date.today(),
