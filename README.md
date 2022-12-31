@@ -6,7 +6,7 @@ I'm a Data / Analytics engineer who is passionate about Engineering and how we c
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently working on developing data solutions, data pipelines and data tooling using python and sql
+- 🔭 I'm currently working on developing data solutions, data pipelines and data monitoring tooling using python and sql
 
 - 🌱 I'm currently learning Big Data Engineering Technologies ( Airflow, Spark, Kafka, Kubernetes,...etc)
 
@@ -40,8 +40,9 @@ Here are some ideas to get you started:
 
 - Apache Airflow as a workflow orchestration tool
 
-- Microsoft Power Bi
-
+- Microsoft Power BI
+- Cribl for Real-time Observability Pipelines
+- Apache Spark
 - Greate Expectation as a data validation tool
 
 - MySQL , Mongodb (Relational and Documnet based databases)
