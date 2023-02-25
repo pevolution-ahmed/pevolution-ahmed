@@ -2,15 +2,15 @@
 
 ### Who am I ?
 
-I'm a Data / Analytics engineer who is passionate about Engineering and how we can apply software engineering best practices to Big Data.
+I'm a Data / Analytics engineer who is excited about engineering and how we can apply best practises from software engineering to Big Data.
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently working on developing data solutions, data pipelines and data monitoring tooling using python and sql
+- 🔭 I'm now using Python and SQL to create data solutions, data pipelines, and data monitoring tooling.
 
-- 🌱 I'm currently learning Big Data Engineering Technologies ( Airflow, Spark, Kafka, Kubernetes,...etc)
+- 🌱 Currently, I'm studying Big Data Engineering Technology ( Airflow, Spark, Kafka, Kubernetes,...etc)
 
-- 👯 I'm looking to collaborate on data engineering & analytics engineering projects
+- 👯 I'm searching for opportunities to work on data engineering and analytics engineering projects.
 
 - 📫 How to reach me: via email pevolution.ahmed@gmail.com
 
@@ -61,10 +61,9 @@ Here are some ideas to get you started:
 
 - Deep learning using pytorch and tensorflow
 
-I use dbt on a daily basis for creating (staging, base, dimensional, fact) models, taking into consideration using DAG (Directed Acyclic Graph) for auditing.
+I use dbt on a daily basis to create (staging, basic, dimensional, and fact) models, with DAG (Directed Acyclic Graph) for auditing.
 
-Also, usually I use already built packages like (dbt_utils, dbt_expectations,... etc) in production environment.
-
+In addition, in the production environment, I typically utilise pre-built packages such as (dbt utils, dbt expectations,... etc).
 
 **Coding Snippets**:
   
