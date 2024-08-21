@@ -1,139 +1,44 @@
-## Hello, I'm Ahmed 
+## Hello, I'm Ahmed
 
-### Who am I ?
+### Who am I?
 
-I'm a Data / Analytics engineer who is excited about engineering and how we can apply best practises from software engineering to Big Data.
+I'm a Data Engineer passionate about leveraging software engineering best practices in Big Data. I focus on building robust data pipelines and scalable data solutions that empower businesses to make data-driven decisions.
 
-Here are some ideas to get you started:
+Here are some highlights:
 
-- 🔭 I'm now using Python and SQL to create data solutions, data pipelines, and data monitoring tooling.
+- 🔭 Currently working with Python and SQL to design and implement data pipelines, ETL processes, and real-time data monitoring systems on-premise and on the cloud.
 
-- 🌱 Currently, I'm studying Big Data Engineering Technology ( Airflow, Spark, Kafka, Kubernetes,...etc)
+- 🌱 Continuously expanding my knowledge in Big Data Engineering technologies, including Airflow, Spark, Kafka, and Kubernetes.
 
-- 👯 I'm searching for opportunities to work on data engineering and analytics engineering projects.
+- 👯 Eager to contribute to challenging data engineering projects and collaborate with teams to optimize data infrastructure.
 
-- 📫 How to reach me: via email pevolution.ahmed@gmail.com
+- 📫 How to reach me: via email at pevolution.ahmed@gmail.com
 
 **Languages**:
 
 - Python
-
 - Java
-
-- Javascript
-
+- JavaScript
 - SQL
-
 - Bash Scripting
 
-**Data related tools**:
+**Data Engineering Tools**:
+- Shiny For Python (Data Science Web Framework)
+- DBT (Data Build Tool)
+- BigQuery (Columnar Data Warehouse)
+- GitHub Actions (CI/CD)
+- Data Visualization (Metabase, Google Data Studio, Microsoft Power BI, Amplitude, Plotly)
+- AWS S3 Object Storage
+- Azure Data Factory & Azure Storage Accounts
+- Apache Airflow (Workflow Orchestration)
+- Apache Spark (Big Data Processing)
+- Cribl (Real-time Observability Pipelines)
+- Great Expectations (Data Validation)
+- MySQL, MongoDB (Relational and Document Databases)
 
-- DBT (data build tool)
+**Technical Expertise**:
 
-- BigQuery datawarehouse (Column-based Database)
-
-- Github actions as CI/CD tool
-
-- Data visualization using( metabase, Google data studio, Microsoft Power BI, Amplitude)
-
-- Jupyter notebook
-
-- Apache Airflow as a workflow orchestration tool
-
-- Microsoft Power BI
-- Cribl for Real-time Observability Pipelines
-- Apache Spark
-- Greate Expectation as a data validation tool
-
-- MySQL , Mongodb (Relational and Documnet based databases)
-
-**Technical knowledge I have**:
-
-- Statistics and Propability
-
-- Software engineering
-
-- Data Warehouse Modeling (Dimintional - ERD)
-
+- Statistics and Probability
+- Software Engineering Principles
+- Data Warehouse Modeling (Dimensional, ERD)
 - Data Analysis
-
-- Machine learning using scikit-learn
-
-- Deep learning using pytorch and tensorflow
-
-I use dbt on a daily basis to create (staging, basic, dimensional, and fact) models, with DAG (Directed Acyclic Graph) for auditing.
-
-In addition, in the production environment, I typically utilise pre-built packages such as (dbt utils, dbt expectations,... etc).
-
-**Coding Snippets**:
-  
-```
-{% macro  extract_most_common_properties_from_mobile(
-   event_name,
-   start_date=dbt_date.n_days_ago(90),
-   end_date=dbt_date.today(),
-   extra_filter="and 1=1"
-)
-%}
-
-with first_plat_props as (
-   select 
-      location_id as country_id,
-      JSON_EXTRACT_SCALAR(event_properties, '$.Name') as event_name,
-      count (distinct user_id) as number_users
-   from 
-      {{ source('ios', 'events') }} 
-   where 
-      event_type = {{ event_name}}
-      and e_id is not null
-      and date(start_time) between {{ start_date } and {{ end_date }}
-      {{ extra_filter }}
-   {{ dbt_utils.group_by(n=2) }}
-),
-second_plat_props as (
-  select 
-    e_id as event_id,
-    JSON_EXTRACT_SCALAR(event_properties, '$.Name') as event_name,
-    count (distinct user_id) as number_users
-  from 
-    {{ source('android', 'events') }} 
-  where 
-    event_type = {{ event_name}}
-    and e_id is not null
-    and date(start_time) between {{ start_date } and {{ end_date }}
-    {{ extra_filter }}
-  {{ dbt_utils.group_by(n=2) }}
-),
-all_names as (
-  select * from first_plat_props
-  union all 
-  select * from second_plat_props
-),
-all_names_sum as (
-   select 
-       event_id,
-       event_name,
-       sum(number_users) as number_users
-    from
-       all_names
-    {{ dbt_utils.group_by(n=2) }}
-),
-name_counts as(
-   select 
-      event_id,
-      event_name, 
-      row_number() over (partition by event_id order by number_users desc) as rownumber
-   from 
-      all_names_sum
-)
-select
-   event_id,
-   event_name
-from 
-   name_counts
-where 
-   rownumber = 1
-    
-{% endmacro %}
-
-```
