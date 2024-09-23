@@ -102,5 +102,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pevolution-ahmed&" alt="pevolution-ahmed" /></p>
 
 ---
-
-This template includes your key experiences, skills, and projects from your CV. Let me know if you'd like to adjust anything further!
