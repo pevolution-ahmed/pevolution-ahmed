@@ -1,7 +1,3 @@
-Below is a personalized GitHub profile README template based on your CV information:
-
----
-
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 
 <h1 align="center">Hi 👋, I'm Ahmed Mamdouh</h1>
