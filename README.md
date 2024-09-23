@@ -1,44 +1,110 @@
-## Hello, I'm Ahmed
+Below is a personalized GitHub profile README template based on your CV information:
 
-### Who am I?
+---
 
-I'm a Data Engineer passionate about leveraging software engineering best practices in Big Data. I focus on building robust data pipelines and scalable data solutions that empower businesses to make data-driven decisions.
+![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 
-Here are some highlights:
+<h1 align="center">Hi 👋, I'm Ahmed Mamdouh</h1>
+<h3 align="center">Data & Analytics Engineer</h3>
 
-- 🔭 Currently working with Python and SQL to design and implement data pipelines, ETL processes, and real-time data monitoring systems on-premise and on the cloud.
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
-- 🌱 Continuously expanding my knowledge in Big Data Engineering technologies, including Airflow, Spark, Kafka, and Kubernetes.
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=pevolution-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="pevolution-ahmed" /> 
+</p>
 
-- 👯 Eager to contribute to challenging data engineering projects and collaborate with teams to optimize data infrastructure.
+---
 
-- 📫 How to reach me: via email at pevolution.ahmed@gmail.com
+### 👨‍💻 About Me:
+- 🎓 **Bachelor's Degree in Statistics and Computer Science** from Ain Shams University  
+- 📋 **Resume**: [**Check out My Resume**](https://drive.google.com/file/d/1OTqIw8HFzOlWm63sUjKnWJcEePs_w06j/view?usp=sharing)  
+- 💬 **Ask me about**: Data Engineering, ETL, Data Analytics, Python, Shiny for Python  
+- 📫 **Reach me at**: [pevolution.ahmed@gmail.com](mailto:pevolution.ahmed@gmail.com) | **+20 1142416735**  
+- ⚡ **Fun fact**: I love automating processes and optimizing data pipelines!  
 
-**Languages**:
+---
 
-- Python
-- Java
-- JavaScript
-- SQL
-- Bash Scripting
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/ahmed-mamdouh-003a78117" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Ahmed Mamdouh" height="40" width="40" />
+  </a>
+  <a href="https://github.com/pevolution-ahmed" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub - Ahmed Mamdouh" height="40" width="40" />
+  </a>
+</p>
 
-**Data Engineering Tools**:
-- Shiny For Python (Data Science Web Framework)
-- DBT (Data Build Tool)
-- BigQuery (Columnar Data Warehouse)
-- GitHub Actions (CI/CD)
-- Data Visualization (Metabase, Google Data Studio, Microsoft Power BI, Amplitude, Plotly)
-- AWS S3 Object Storage
-- Azure Data Factory & Azure Storage Accounts
-- Apache Airflow (Workflow Orchestration)
-- Apache Spark (Big Data Processing)
-- Cribl (Real-time Observability Pipelines)
-- Great Expectations (Data Validation)
-- MySQL, MongoDB (Relational and Document Databases)
+<br>
 
-**Technical Expertise**:
+### 🎓 Education
 
-- Statistics and Probability
-- Software Engineering Principles
-- Data Warehouse Modeling (Dimensional, ERD)
-- Data Analysis
+---
+
+#### 🏫 **Bachelor's Degree in Statistics and Computer Science**
+
+- ![University Badge](https://img.shields.io/badge/Ain_Sham_University-0055A4?style=flat&logo=university&logoColor=white)
+- ![Duration Badge](https://img.shields.io/badge/Duration-2015%20–%202019-yellow)
+
+---
+
+<br>
+
+# 💼 Experience
+
+---
+
+## 🧑‍💻 Data Migration Specialist  
+**ETISALAT MISR** · *Egypt*  
+**June 2023 - Present**
+
+- Managed data pipelines using **IBM Datastage** and **Talend Open Studio** for operations on Oracle.
+- Automated tasks using **Shell**, **Java**, and **Python**, saving 30% of manual processes.
+
+## 🧑‍💻 Analytics Engineer  
+**The Fabulous** · *Remote*  
+**February 2022 - June 2022**
+
+- Developed a DataOps monitoring dashboard, improving operational performance by 40%.
+- Automated BigQuery processes with **CI/CD** and **bash**, saving 30% team effort.
+
+## 🖥️ Freelance Shiny for Python Developer & Data Engineer  
+**Upwork & Freelancer**  
+**January 2021 - Present**
+
+- Developed branded Shiny for Python web apps and data automation scripts for global clients.
+- Won 3 IBM AI/Data Analytics contests out of 22 competitors.
+
+---
+
+<br>
+
+## 🛠️ Technical Skills
+
+### 🖥️ Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+
+### 🛠️ Data Engineering Tools
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-0080FF?style=flat&logo=apache-airflow&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-44A832?style=flat)
+![IBM DataStage](https://img.shields.io/badge/IBM_Datastage-FF4500?style=flat)
+
+---
+
+### 📊 Projects
+
+- [Stock Market Analytics ELT Workflow](https://github.com/pevolution-ahmed/stock-analytics-elt-data-pipeline)
+- [GES DISC Data Engineering with Apache Airflow](https://github.com/pevolution-ahmed/ges-disc-data-engineering)
+  
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pevolution-ahmed&show_icons=true&locale=en&layout=compact" alt="pevolution-ahmed" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pevolution-ahmed&show_icons=true&locale=en" alt="pevolution-ahmed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pevolution-ahmed&" alt="pevolution-ahmed" /></p>
+
+---
+
+This template includes your key experiences, skills, and projects from your CV. Let me know if you'd like to adjust anything further!
