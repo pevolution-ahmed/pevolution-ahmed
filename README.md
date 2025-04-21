@@ -96,6 +96,7 @@ and reduce processing time.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 ### 🛠️ Data Engineering Tools
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-0080FF?style=flat&logo=apache-airflow&logoColor=white)
