@@ -53,8 +53,18 @@
 **ETISALAT MISR** · *Egypt*  
 **June 2023 - Present**
 
-- Managed data pipelines using **IBM Datastage** and **Talend Open Studio** for operations on Oracle.
-- Automated tasks using **Shell**, **Java**, and **Python**, saving 30% of manual processes.
+ - Designed and orchestrated data pipelines using IBM Datastage ETL and Talend OpenStudio, stream
+lining operations on Oracle databases.
+ - Developed and optimized PL/SQL functions and procedures, implementing complex business logic
+ to enhance data accuracy and integrity.
+ - Improved team efficiency by 50% through effective management and automation of data migration
+ workflows using ETL tools.
+ - Analyzed and resolved Oracle Siebel CRM data issues, optimizing SQL/PLSQL queries to boost performance
+and reduce processing time.
+ - Automated repetitive tasks using shell scripting, Java, and Python, cutting manual data processing
+ time by 30%.
+ - Managed operational data issues between Siebel CRM and integrated systems, ensuring seamless
+ migration processes
 
 ## 🧑‍💻 Analytics Engineer  
 **The Fabulous** · *Remote*  
