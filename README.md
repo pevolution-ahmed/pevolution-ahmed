@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me:
 - 🎓 **Bachelor's Degree in Statistics and Computer Science** from Ain Shams University  
-- 📋 **Resume**: [**Check out My Resume**](https://drive.google.com/file/d/1OTqIw8HFzOlWm63sUjKnWJcEePs_w06j/view?usp=sharing)  
+- 📋 **Resume**: [**Check out My Resume**](https://drive.google.com/file/d/1so06jXVY97MJfwgndpdj0wNW8051oLtv/view?usp=sharing)
 - 💬 **Ask me about**: Data Engineering, ETL, Data Analytics, Python, Shiny for Python  
 - 📫 **Reach me at**: [pevolution.ahmed@gmail.com](mailto:pevolution.ahmed@gmail.com) | **+20 1142416735**  
 - ⚡ **Fun fact**: I love automating processes and optimizing data pipelines!  
@@ -77,9 +77,15 @@ and reduce processing time.
 **Upwork & Freelancer**  
 **January 2021 - Present**
 
-- Developed branded Shiny for Python web apps and data automation scripts for global clients.
-- Won 3 IBM AI/Data Analytics contests out of 22 competitors.
-
+- Delivered customized, branded Data Science Web Applications using Shiny for Python, meeting
+ client-specific needs globally.
+- Led deployment,bugfixing, testing, and feature development for over 10 enterprise-level Shiny
+ applications, ensuring high performance and reliability.
+- Integrated applications with AWS and Google Cloud storage for secure handling of sensitive data,
+ while implementing client-specific compliance and data governance policies.
+- Developed and integrated custom JavaScript-based geospatial maps within Shiny applications,
+ enabling rich, interactive visualization of location-based data.
+- Out of 22 competitors, I won first place in three IBM AI/Data Creative Analytics Solutions Contests.
 ---
 
 <br>
