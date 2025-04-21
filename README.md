@@ -50,7 +50,7 @@
 ---
 
 ## 🧑‍💻 Data Migration Specialist  
-**ETISALAT MISR** · *Egypt*  
+**e& egypt** · *Egypt*  
 **June 2023 - Present**
 
  - Designed and orchestrated data pipelines using IBM Datastage ETL and Talend OpenStudio, stream
